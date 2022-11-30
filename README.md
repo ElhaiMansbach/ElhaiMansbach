@@ -1,12 +1,10 @@
 
 
 <h1 align="center">Hi, I'm Elhai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h3 align="center">I am Junior Software Developer & Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-
-<h3 align="center">I am Junior Software Developer & Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</h3>
 
 - 📫 How to reach me **elhaimn@gmail.com**
 <h3 align="left">Connect with me:</h3>
