@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Elhai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi, I'm Elhai <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"/></h1>
 <h3 align="center">I am Junior Software Developer & Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhaimansbach&label=Profile%20views&color=0e75b6&style=flat" alt="elhaimansbach" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhaimansbach" alt="elhaimansbach" /></a> </p>
+<h3>📈 Github Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhaimansbach&show_icons=true&locale=en&layout=compact" alt="elhaimansbach" /></p>
 
