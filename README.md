@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/elhai-mansbach-0966a1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elhai mansbach" height="30" width="40"/></a>
 <a href="https://www.facebook.com/elhai.mansbach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elhai mansbach" height="30" width="40" /></a>
-<a href="https://github.com/ElhaiMansbach" target="blank" url=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="elhai mansbach" height="30" width="40" /></a>
+<!-- <a href="https://github.com/ElhaiMansbach" target="blank" url=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="elhai mansbach" height="30" width="40" /></a> -->
 </p>
 
 
@@ -21,9 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhaimansbach&label=Profile%20views&color=0e75b6&style=flat" alt="elhaimansbach" /> </p>
 
-<h3>📈 Github Stats:</h3>
-
-
+<!-- <h3>📈 Github Stats:</h3> -->
 
 <p align="right">
   <a href="#top">back to top</a>
