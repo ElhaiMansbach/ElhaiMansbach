@@ -44,8 +44,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhaimansbach&label=Profile%20views&color=0e75b6&style=flat" alt="elhaimansbach" /> </p>
 
 <h3>📈 Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhaimansbach&show_icons=true&locale=en&layout=compact" alt="elhaimansbach" /></p>
-<p style="margin-top: 3em;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elhaimansbach&show_icons=true&locale=en" alt="elhaimansbach" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhaimansbach&show_icons=true&locale=en&layout=compactPAT_1" alt="elhaimansbach" /></p>
+<p style="margin-top: 3em;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elhaimansbach&show_icons=true&locale=enPAT_1" alt="elhaimansbach" /></p>
 
 
 <p align="right">
