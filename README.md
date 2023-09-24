@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <h1 align="center">Hi, I'm Elhai <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"/></h1>
-<h3 align="center">I am a Junior Full Stack Developer & Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</h3>
+<h3 align="center">I am a Junior Full Stack Developer & Computer Science Student </h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
