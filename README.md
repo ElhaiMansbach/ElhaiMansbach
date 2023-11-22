@@ -9,19 +9,6 @@
 
 <br>
 
-<p align="center">Connect with me:</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/elhai-mansbach-0966a1234/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="mailto:elhaimn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-elhaimn%40gmail.com-informational?style=flat&logo=gmail&logoColor=red&color=0D76A8" alt="Gmail"/>
-  </a>
-</p>
-
-<br>
-
 <p align="center">Languages and Tools:</p>
 
 <p align="center">
