@@ -1,7 +1,7 @@
 <div id="top"/>
 
 <h1 align="center">Hi, I'm Elhai 👋</h1>
-<h3 align="center"> Full Stack/Frontend Developer
+<h3 align="center">Frontend Developer
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -16,7 +16,6 @@
   <img src="https://i.ibb.co/rMJzrfk/Intelli-JIDEA.png" alt="Intellij" width="40" height="40"/>
   <img src="https://i.ibb.co/SdBmZC2/pycharm.jpg" alt="Pycharm" width="40" height="40"/>
   <img src="https://i.ibb.co/n7vwtsc/vs.png" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://i.ibb.co/4W3kdkp/GitHub.png" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
